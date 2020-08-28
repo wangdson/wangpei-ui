@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "./main.fbb01cf76b6c3f0cf122.bundle.js",
-    "main.js.map": "./main.fbb01cf76b6c3f0cf122.bundle.js.map",
-    "runtime~main.js": "./runtime~main.fbb01cf76b6c3f0cf122.bundle.js",
-    "runtime~main.js.map": "./runtime~main.fbb01cf76b6c3f0cf122.bundle.js.map",
-    "vendors~main.js": "./vendors~main.fbb01cf76b6c3f0cf122.bundle.js",
-    "vendors~main.js.map": "./vendors~main.fbb01cf76b6c3f0cf122.bundle.js.map",
+    "main.js": "./main.86e512ed534fa62ee78f.bundle.js",
+    "main.js.map": "./main.86e512ed534fa62ee78f.bundle.js.map",
+    "runtime~main.js": "./runtime~main.86e512ed534fa62ee78f.bundle.js",
+    "runtime~main.js.map": "./runtime~main.86e512ed534fa62ee78f.bundle.js.map",
+    "vendors~main.js": "./vendors~main.86e512ed534fa62ee78f.bundle.js",
+    "vendors~main.js.map": "./vendors~main.86e512ed534fa62ee78f.bundle.js.map",
     "iframe.html": "./iframe.html",
-    "precache-manifest.dc99de2d3f0f9d3330b399ab7f9e6e86.js": "./precache-manifest.dc99de2d3f0f9d3330b399ab7f9e6e86.js",
+    "precache-manifest.41d45d7056f66c4d1a41b19bd4f9424b.js": "./precache-manifest.41d45d7056f66c4d1a41b19bd4f9424b.js",
     "service-worker.js": "./service-worker.js",
     "static/media/code-brackets.svg": "./static/media/code-brackets.c9df018b.svg",
     "static/media/colors.svg": "./static/media/colors.771456e0.svg",
@@ -17,11 +17,11 @@
     "static/media/plugin.svg": "./static/media/plugin.4e48689a.svg",
     "static/media/repo.svg": "./static/media/repo.0d87ede8.svg",
     "static/media/stackalt.svg": "./static/media/stackalt.f725b73e.svg",
-    "vendors~main.fbb01cf76b6c3f0cf122.bundle.js.LICENSE.txt": "./vendors~main.fbb01cf76b6c3f0cf122.bundle.js.LICENSE.txt"
+    "vendors~main.86e512ed534fa62ee78f.bundle.js.LICENSE.txt": "./vendors~main.86e512ed534fa62ee78f.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.fbb01cf76b6c3f0cf122.bundle.js",
-    "vendors~main.fbb01cf76b6c3f0cf122.bundle.js",
-    "main.fbb01cf76b6c3f0cf122.bundle.js"
+    "runtime~main.86e512ed534fa62ee78f.bundle.js",
+    "vendors~main.86e512ed534fa62ee78f.bundle.js",
+    "main.86e512ed534fa62ee78f.bundle.js"
   ]
 }
