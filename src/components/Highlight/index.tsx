@@ -112,7 +112,7 @@ const reUnescapedHtml = /[&<>"']/g;
 const reHasUnescapedHtml = RegExp(reUnescapedHtml.source);
 
 function escape(string: string) {
-  console.log('escape',string);
+  // console.log('escape',string);
 	return string && reHasUnescapedHtml.test(string)
 		? string.replace(
 				reUnescapedHtml,
