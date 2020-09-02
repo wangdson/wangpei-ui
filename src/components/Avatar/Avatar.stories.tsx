@@ -4,7 +4,7 @@ import { Avatar, AvatarSize , AvatarProps } from './index';
 import styled from 'styled-components';
 
 export default{
-  title: 'Avatar/ Avatar',
+  title: 'View/ Avatar',
   component: Avatar,
   decorators: [withKnobs]
 }

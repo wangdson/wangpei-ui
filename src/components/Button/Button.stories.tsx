@@ -10,7 +10,7 @@ import {
 } from '@storybook/addon-knobs';
 
 export default {
-  title: 'BUtton / Button',
+  title: 'Basic / Button',
   component: Button,
   decorators: [withKnobs]
 } as Meta;

@@ -1,0 +1,17 @@
+import React from "react";
+import { {{headCaps name}} } from "./index";
+import {
+	withKnobs,
+	text,
+	boolean,
+	color,
+	select,
+} from "@storybook/addon-knobs";
+
+export default {
+  title: '{{headCaps name}}/ {{headCaps name}}',
+  component: {{headCaps name}},
+  decorators: [withKnobs],
+}
+
+export const knobs{{headCaps name}} = () => {};
