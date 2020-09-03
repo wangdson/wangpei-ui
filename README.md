@@ -15,7 +15,7 @@ wangpei-ui是个人制作的小型轻量级ui库
 使用 npm 或 yarn 安装
 
 ```
-$ npm install @wangpei/wangpei-ui --save
+$ npm install @huayun/wangpei-ui --save
 ```
 
 ## 引入样式
@@ -26,7 +26,7 @@ import 'wangpei-ui/dist/index.css';
 ## 导入组件
 
 ```
-import {componentName} from '@wangpei/wangpei-ui';
+import {componentName} from '@huayun/wangpei-ui';
 ```
 
 ## 在线文档

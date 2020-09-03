@@ -1,7 +1,10 @@
 {
-  "name": "@wangpei/wangpei-ui",
+  "name": "@huayun/wangpei-ui",
   "version": "0.1.0",
   "private": false,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@wangpei"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -66,9 +69,6 @@
   "np": {
     "yarn": false,
     "contents": "dist"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@wangpei"
   },
   "devDependencies": {
     "@babel/core": "^7.11.1",
