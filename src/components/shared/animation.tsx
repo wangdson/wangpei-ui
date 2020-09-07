@@ -8,3 +8,15 @@ export const glow = keyframes`
   0%, 100% {opacity: 1;}
   50% { opacity: .4;}
 `;
+
+export const modalOpenAnimate = keyframes`
+  0% {opacity: 0;}
+  50% { opacity: .4;}
+  100% {opacity: 1;}
+`; 
+
+export const modalCloseAnimate = keyframes`
+  0% {opacity: 1;}
+  50% { opacity: .4;}
+  100% {opacity: 0;}
+`; 
