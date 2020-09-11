@@ -11,7 +11,7 @@ import { action } from "@storybook/addon-actions";
 import { Icon } from "../Icon";
 
 export default {
-  title: 'Basic/ Radio',
+  title: '基础组件 / Radio',
   component: Radio,
   decorators: [withKnobs],
 }

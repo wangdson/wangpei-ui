@@ -10,7 +10,7 @@ import {
 } from "@storybook/addon-knobs";
 
 export default {
-  title: 'view/ Badge徽章',
+  title: '展示组件 / Badge徽章',
   component: Badge,
   decorators: [withKnobs],
 }

@@ -4,7 +4,7 @@ import { Carousel, CarouselProps } from './index';
 import { color } from '../shared/style';
 
 export default {
-  title: 'Other / Carousel',
+  title: '高级组件 / Carousel',
   component: Carousel,
   decorators: [withKnobs],
 }

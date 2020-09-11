@@ -5,7 +5,7 @@ import {
 } from '@storybook/addon-knobs';
 
 export default {
-	title: "Other/ Highlight",
+	title: "其他组件 / Highlight",
 	component: Highlight,
 	decorators: [withKnobs],
 };

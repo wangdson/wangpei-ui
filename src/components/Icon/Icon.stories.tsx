@@ -5,7 +5,7 @@ import {icons} from '../shared/icons';
 import styled from 'styled-components';
 
 export default {
-  title: 'Basic / icon',
+  title: '基础组件 / icon',
   component: Icon,
   decorators: [withKnobs],
 }
