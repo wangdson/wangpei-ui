@@ -25,6 +25,7 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
+    "postinstall": "patch-package",
     "start": "react-scripts start",
     "build-cjs": "microbundle build --tsconfig tsconfig.build.json --jsx React.createElement --compress=false --format cjs",
     "build-all": "microbundle build --tsconfig tsconfig.build.json --jsx React.createElement --compress=false",
@@ -89,6 +90,7 @@
     "coveralls": "^3.1.0",
     "microbundle": "^0.12.3",
     "np": "^6.5.0",
+    "patch-package": "^6.2.2",
     "react": "^16.13.1",
     "react-docgen-typescript-loader": "^3.7.2",
     "react-dom": "^16.13.1",

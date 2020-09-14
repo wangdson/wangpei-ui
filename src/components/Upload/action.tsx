@@ -180,7 +180,7 @@ export const canvasDraw = (
   } else {
     const rate = canvas.height / imgHeight;
     imgHeight = canvas.height * times;
-    imgWidth= canvas.width * rate * times;
+    imgWidth= imgWidth * rate * times;
   }
   // 计算canvas布局的偏移量
   let startX = (canvas.width - imgWidth) / 2;

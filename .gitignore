@@ -27,3 +27,4 @@ yarn.lock
 
 /dist
 /src/__test__/__snapshots__
+/storybook-static

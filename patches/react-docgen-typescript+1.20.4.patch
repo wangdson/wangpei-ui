@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-docgen-typescript/lib/parser.js b/node_modules/react-docgen-typescript/lib/parser.js
+index 0b81781..6bfcd65 100644
+--- a/node_modules/react-docgen-typescript/lib/parser.js
++++ b/node_modules/react-docgen-typescript/lib/parser.js
+@@ -608,7 +608,7 @@ var Parser = /** @class */ (function () {
+                     : null;
+             case ts.SyntaxKind.PropertyAccessExpression: {
+                 var symbol_3 = this.checker.getSymbolAtLocation(initializer);
+-                if (symbol_3 && symbol_3.declarations.length) {
++                if (symbol_3 && symbol_3.declarations && symbol_3.declarations.length) {
+                     var declaration = symbol_3.declarations[0];
+                     if (ts.isBindingElement(declaration) ||
+                         ts.isPropertyAssignment(declaration)) {
