@@ -26,5 +26,5 @@ package-lock.json
 yarn.lock
 
 /dist
-/src/__test__/__snapshots__
+# /src/__test__/__snapshots__
 /storybook-static

@@ -1,0 +1,950 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Carousel component should render correct radio style 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div>
+      <div>
+        <div>
+          <div
+            class="sc-iCoHVE bfQMkN wrapper"
+          >
+            <div
+              class="viewport"
+              style="width: 100%; height: 100px; overflow: hidden; border-radius: 10px; position: relative;"
+            >
+              <div
+                class="sc-gKAblj jUGmAl"
+                direction=""
+              >
+                <div
+                  style="display: flex; position: absolute; width: 0px; left: -0px;"
+                >
+                  <div
+                    style="height: 100px; width: 0px;"
+                  />
+                  <div
+                    style="height: 100px; width: 0px;"
+                  >
+                    <span
+                      id="test1"
+                    >
+                      1
+                    </span>
+                  </div>
+                  <div
+                    style="height: 100px; width: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <ul
+              style="display: flex; justify-content: center; align-items: center;"
+            >
+              <div
+                class="sc-bdnylx dLJciH"
+              >
+                <label
+                  class="sc-gtssRu bRQpme"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="sc-eCApGN czmxDm"
+                    role="radio"
+                    type="radio"
+                    value="0"
+                  />
+                  <span>
+                    <span
+                      class="sc-hKFyIo kdmuZE"
+                    />
+                  </span>
+                </label>
+              </div>
+              <div
+                class="sc-bdnylx dLJciH"
+              >
+                <label
+                  class="sc-gtssRu bRQpme"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="sc-eCApGN czmxDm"
+                    role="radio"
+                    type="radio"
+                    value="0"
+                  />
+                  <span>
+                    <span
+                      class="sc-hKFyIo kdmuZE"
+                    />
+                  </span>
+                </label>
+              </div>
+              <div
+                class="sc-bdnylx dLJciH"
+              >
+                <label
+                  class="sc-gtssRu bRQpme"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="sc-eCApGN czmxDm"
+                    role="radio"
+                    type="radio"
+                    value="0"
+                  />
+                  <span>
+                    <span
+                      class="sc-hKFyIo kdmuZE"
+                    />
+                  </span>
+                </label>
+              </div>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <div
+            class="sc-iCoHVE bfQMkN wrapper"
+          >
+            <div
+              class="viewport"
+              style="width: 100%; height: 100px; overflow: hidden; border-radius: 10px; position: relative;"
+            >
+              <div
+                class="sc-gKAblj jUGmAl"
+                direction=""
+              >
+                <div
+                  style="display: flex; position: absolute; width: 0px; left: -0px;"
+                >
+                  <div
+                    style="height: 100px; width: 0px;"
+                  />
+                  <div
+                    style="height: 100px; width: 0px;"
+                  >
+                    <span
+                      id="test1"
+                    >
+                      1
+                    </span>
+                  </div>
+                  <div
+                    style="height: 100px; width: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <ul
+              style="display: flex; justify-content: center; align-items: center;"
+            >
+              <div
+                class="sc-bdnylx dLJciH"
+              >
+                <label
+                  class="sc-gtssRu bRQpme"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="sc-eCApGN giMSXv"
+                    role="radio"
+                    type="radio"
+                    value="0"
+                  />
+                  <span>
+                    <span
+                      class="sc-hKFyIo kdmuZE"
+                    />
+                  </span>
+                </label>
+              </div>
+              <div
+                class="sc-bdnylx dLJciH"
+              >
+                <label
+                  class="sc-gtssRu bRQpme"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="sc-eCApGN giMSXv"
+                    role="radio"
+                    type="radio"
+                    value="0"
+                  />
+                  <span>
+                    <span
+                      class="sc-hKFyIo kdmuZE"
+                    />
+                  </span>
+                </label>
+              </div>
+              <div
+                class="sc-bdnylx dLJciH"
+              >
+                <label
+                  class="sc-gtssRu bRQpme"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="sc-eCApGN giMSXv"
+                    role="radio"
+                    type="radio"
+                    value="0"
+                  />
+                  <span>
+                    <span
+                      class="sc-hKFyIo kdmuZE"
+                    />
+                  </span>
+                </label>
+              </div>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <div
+            class="sc-iCoHVE bfQMkN wrapper"
+          >
+            <div
+              class="viewport"
+              style="width: 100%; height: 100px; overflow: hidden; border-radius: 10px; position: relative;"
+            >
+              <div
+                class="sc-gKAblj jUGmAl"
+                direction=""
+              >
+                <div
+                  style="display: flex; position: absolute; width: 0px; left: -0px;"
+                >
+                  <div
+                    style="height: 100px; width: 0px;"
+                  />
+                  <div
+                    style="height: 100px; width: 0px;"
+                  >
+                    <span
+                      id="test1"
+                    >
+                      1
+                    </span>
+                  </div>
+                  <div
+                    style="height: 100px; width: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <ul
+              style="display: flex; justify-content: center; align-items: center;"
+            >
+              <div
+                class="sc-bdnylx dLJciH"
+              >
+                <label
+                  class="sc-gtssRu bRQpme"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="sc-eCApGN hoVyQH"
+                    role="radio"
+                    type="radio"
+                    value="0"
+                  />
+                  <span>
+                    <span
+                      class="sc-hKFyIo kdmuZE"
+                    />
+                  </span>
+                </label>
+              </div>
+              <div
+                class="sc-bdnylx dLJciH"
+              >
+                <label
+                  class="sc-gtssRu bRQpme"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="sc-eCApGN hoVyQH"
+                    role="radio"
+                    type="radio"
+                    value="0"
+                  />
+                  <span>
+                    <span
+                      class="sc-hKFyIo kdmuZE"
+                    />
+                  </span>
+                </label>
+              </div>
+              <div
+                class="sc-bdnylx dLJciH"
+              >
+                <label
+                  class="sc-gtssRu bRQpme"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="sc-eCApGN hoVyQH"
+                    role="radio"
+                    type="radio"
+                    value="0"
+                  />
+                  <span>
+                    <span
+                      class="sc-hKFyIo kdmuZE"
+                    />
+                  </span>
+                </label>
+              </div>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div>
+        <div
+          class="sc-iCoHVE bfQMkN wrapper"
+        >
+          <div
+            class="viewport"
+            style="width: 100%; height: 100px; overflow: hidden; border-radius: 10px; position: relative;"
+          >
+            <div
+              class="sc-gKAblj jUGmAl"
+              direction=""
+            >
+              <div
+                style="display: flex; position: absolute; width: 0px; left: -0px;"
+              >
+                <div
+                  style="height: 100px; width: 0px;"
+                />
+                <div
+                  style="height: 100px; width: 0px;"
+                >
+                  <span
+                    id="test1"
+                  >
+                    1
+                  </span>
+                </div>
+                <div
+                  style="height: 100px; width: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <ul
+            style="display: flex; justify-content: center; align-items: center;"
+          >
+            <div
+              class="sc-bdnylx dLJciH"
+            >
+              <label
+                class="sc-gtssRu bRQpme"
+              >
+                <input
+                  aria-invalid="false"
+                  class="sc-eCApGN czmxDm"
+                  role="radio"
+                  type="radio"
+                  value="0"
+                />
+                <span>
+                  <span
+                    class="sc-hKFyIo kdmuZE"
+                  />
+                </span>
+              </label>
+            </div>
+            <div
+              class="sc-bdnylx dLJciH"
+            >
+              <label
+                class="sc-gtssRu bRQpme"
+              >
+                <input
+                  aria-invalid="false"
+                  class="sc-eCApGN czmxDm"
+                  role="radio"
+                  type="radio"
+                  value="0"
+                />
+                <span>
+                  <span
+                    class="sc-hKFyIo kdmuZE"
+                  />
+                </span>
+              </label>
+            </div>
+            <div
+              class="sc-bdnylx dLJciH"
+            >
+              <label
+                class="sc-gtssRu bRQpme"
+              >
+                <input
+                  aria-invalid="false"
+                  class="sc-eCApGN czmxDm"
+                  role="radio"
+                  type="radio"
+                  value="0"
+                />
+                <span>
+                  <span
+                    class="sc-hKFyIo kdmuZE"
+                  />
+                </span>
+              </label>
+            </div>
+          </ul>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-iCoHVE bfQMkN wrapper"
+        >
+          <div
+            class="viewport"
+            style="width: 100%; height: 100px; overflow: hidden; border-radius: 10px; position: relative;"
+          >
+            <div
+              class="sc-gKAblj jUGmAl"
+              direction=""
+            >
+              <div
+                style="display: flex; position: absolute; width: 0px; left: -0px;"
+              >
+                <div
+                  style="height: 100px; width: 0px;"
+                />
+                <div
+                  style="height: 100px; width: 0px;"
+                >
+                  <span
+                    id="test1"
+                  >
+                    1
+                  </span>
+                </div>
+                <div
+                  style="height: 100px; width: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <ul
+            style="display: flex; justify-content: center; align-items: center;"
+          >
+            <div
+              class="sc-bdnylx dLJciH"
+            >
+              <label
+                class="sc-gtssRu bRQpme"
+              >
+                <input
+                  aria-invalid="false"
+                  class="sc-eCApGN giMSXv"
+                  role="radio"
+                  type="radio"
+                  value="0"
+                />
+                <span>
+                  <span
+                    class="sc-hKFyIo kdmuZE"
+                  />
+                </span>
+              </label>
+            </div>
+            <div
+              class="sc-bdnylx dLJciH"
+            >
+              <label
+                class="sc-gtssRu bRQpme"
+              >
+                <input
+                  aria-invalid="false"
+                  class="sc-eCApGN giMSXv"
+                  role="radio"
+                  type="radio"
+                  value="0"
+                />
+                <span>
+                  <span
+                    class="sc-hKFyIo kdmuZE"
+                  />
+                </span>
+              </label>
+            </div>
+            <div
+              class="sc-bdnylx dLJciH"
+            >
+              <label
+                class="sc-gtssRu bRQpme"
+              >
+                <input
+                  aria-invalid="false"
+                  class="sc-eCApGN giMSXv"
+                  role="radio"
+                  type="radio"
+                  value="0"
+                />
+                <span>
+                  <span
+                    class="sc-hKFyIo kdmuZE"
+                  />
+                </span>
+              </label>
+            </div>
+          </ul>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-iCoHVE bfQMkN wrapper"
+        >
+          <div
+            class="viewport"
+            style="width: 100%; height: 100px; overflow: hidden; border-radius: 10px; position: relative;"
+          >
+            <div
+              class="sc-gKAblj jUGmAl"
+              direction=""
+            >
+              <div
+                style="display: flex; position: absolute; width: 0px; left: -0px;"
+              >
+                <div
+                  style="height: 100px; width: 0px;"
+                />
+                <div
+                  style="height: 100px; width: 0px;"
+                >
+                  <span
+                    id="test1"
+                  >
+                    1
+                  </span>
+                </div>
+                <div
+                  style="height: 100px; width: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <ul
+            style="display: flex; justify-content: center; align-items: center;"
+          >
+            <div
+              class="sc-bdnylx dLJciH"
+            >
+              <label
+                class="sc-gtssRu bRQpme"
+              >
+                <input
+                  aria-invalid="false"
+                  class="sc-eCApGN hoVyQH"
+                  role="radio"
+                  type="radio"
+                  value="0"
+                />
+                <span>
+                  <span
+                    class="sc-hKFyIo kdmuZE"
+                  />
+                </span>
+              </label>
+            </div>
+            <div
+              class="sc-bdnylx dLJciH"
+            >
+              <label
+                class="sc-gtssRu bRQpme"
+              >
+                <input
+                  aria-invalid="false"
+                  class="sc-eCApGN hoVyQH"
+                  role="radio"
+                  type="radio"
+                  value="0"
+                />
+                <span>
+                  <span
+                    class="sc-hKFyIo kdmuZE"
+                  />
+                </span>
+              </label>
+            </div>
+            <div
+              class="sc-bdnylx dLJciH"
+            >
+              <label
+                class="sc-gtssRu bRQpme"
+              >
+                <input
+                  aria-invalid="false"
+                  class="sc-eCApGN hoVyQH"
+                  role="radio"
+                  type="radio"
+                  value="0"
+                />
+                <span>
+                  <span
+                    class="sc-hKFyIo kdmuZE"
+                  />
+                </span>
+              </label>
+            </div>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`test Carousel component should render one item 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div>
+      <div>
+        <div
+          class="sc-iCoHVE bfQMkN wrapper"
+        >
+          <div
+            class="viewport"
+            style="width: 100%; height: 100px; overflow: hidden; border-radius: 10px; position: relative;"
+          >
+            <div
+              class="sc-gKAblj jUGmAl"
+              direction=""
+            >
+              <div
+                style="display: flex; position: absolute; width: 0px; left: -0px;"
+              >
+                <div
+                  style="height: 100px; width: 0px;"
+                />
+                <div
+                  style="height: 100px; width: 0px;"
+                />
+                <div
+                  style="height: 100px; width: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <ul
+            style="display: flex; justify-content: center; align-items: center;"
+          >
+            <div
+              class="sc-bdnylx dLJciH"
+            >
+              <label
+                class="sc-gtssRu bRQpme"
+              >
+                <input
+                  aria-invalid="false"
+                  class="sc-eCApGN giMSXv"
+                  role="radio"
+                  type="radio"
+                  value="0"
+                />
+                <span>
+                  <span
+                    class="sc-hKFyIo kdmuZE"
+                  />
+                </span>
+              </label>
+            </div>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="sc-iCoHVE bfQMkN wrapper"
+      >
+        <div
+          class="viewport"
+          style="width: 100%; height: 100px; overflow: hidden; border-radius: 10px; position: relative;"
+        >
+          <div
+            class="sc-gKAblj jUGmAl"
+            direction=""
+          >
+            <div
+              style="display: flex; position: absolute; width: 0px; left: -0px;"
+            >
+              <div
+                style="height: 100px; width: 0px;"
+              />
+              <div
+                style="height: 100px; width: 0px;"
+              />
+              <div
+                style="height: 100px; width: 0px;"
+              />
+            </div>
+          </div>
+        </div>
+        <ul
+          style="display: flex; justify-content: center; align-items: center;"
+        >
+          <div
+            class="sc-bdnylx dLJciH"
+          >
+            <label
+              class="sc-gtssRu bRQpme"
+            >
+              <input
+                aria-invalid="false"
+                class="sc-eCApGN giMSXv"
+                role="radio"
+                type="radio"
+                value="0"
+              />
+              <span>
+                <span
+                  class="sc-hKFyIo kdmuZE"
+                />
+              </span>
+            </label>
+          </div>
+        </ul>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`test Carousel component should test resize 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-iCoHVE bfQMkN wrapper"
+    >
+      <div
+        class="viewport"
+        style="width: 100%; height: 100px; overflow: hidden; border-radius: 10px; position: relative;"
+      >
+        <div
+          class="sc-gKAblj jUGmAl"
+          direction=""
+        >
+          <div
+            style="display: flex; position: absolute; width: 0px; left: -0px;"
+          >
+            <div
+              style="height: 100px; width: 0px;"
+            />
+            <div
+              style="height: 100px; width: 0px;"
+            >
+              <span
+                id="test1"
+                style="height: 100%; width: 100%;"
+              >
+                1
+              </span>
+            </div>
+            <div
+              style="height: 100px; width: 0px;"
+            />
+          </div>
+        </div>
+      </div>
+      <ul
+        style="display: flex; justify-content: center; align-items: center;"
+      >
+        <div
+          class="sc-bdnylx dLJciH"
+        >
+          <label
+            class="sc-gtssRu bRQpme"
+          >
+            <input
+              aria-invalid="false"
+              class="sc-eCApGN giMSXv"
+              role="radio"
+              type="radio"
+              value="0"
+            />
+            <span>
+              <span
+                class="sc-hKFyIo kdmuZE"
+              />
+            </span>
+          </label>
+        </div>
+        <div
+          class="sc-bdnylx dLJciH"
+        >
+          <label
+            class="sc-gtssRu bRQpme"
+          >
+            <input
+              aria-invalid="false"
+              class="sc-eCApGN giMSXv"
+              role="radio"
+              type="radio"
+              value="0"
+            />
+            <span>
+              <span
+                class="sc-hKFyIo kdmuZE"
+              />
+            </span>
+          </label>
+        </div>
+        <div
+          class="sc-bdnylx dLJciH"
+        >
+          <label
+            class="sc-gtssRu bRQpme"
+          >
+            <input
+              aria-invalid="false"
+              class="sc-eCApGN giMSXv"
+              role="radio"
+              type="radio"
+              value="0"
+            />
+            <span>
+              <span
+                class="sc-hKFyIo kdmuZE"
+              />
+            </span>
+          </label>
+        </div>
+      </ul>
+    </div>
+  </div>
+</div>
+`;
