@@ -1,0 +1,753 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Pagination component it render corrent Pagination 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <ul
+        class="sc-jSFkmK kQqwCS"
+      >
+        <li>
+          <button
+            class="sc-dlnjPT lnHCYJ"
+            data-testid="button"
+            disabled=""
+          >
+            <span
+              class="sc-bdnylx bRlASU"
+            >
+              <svg
+                class="sc-hKFyIo epBBzH"
+                data-testid="icon-svg"
+                height="20px"
+                viewBox="0 0 1024 1024"
+                width="20px"
+              >
+                <path
+                  class="sc-eCApGN ijoIcd"
+                  color="black"
+                  d="M257.93 511.976c0-10.236 3.902-20.47 11.71-28.282l344.098-344.158c15.622-15.624 40.946-15.624 56.57-0.006 15.622 15.622 15.624 40.948 0.004 56.568l-315.82 315.876 315.868 315.922c15.618 15.624 15.618 40.952-0.004 56.568-15.622 15.62-40.95 15.618-56.57-0.006l-344.146-344.202c-7.808-7.81-11.71-18.044-11.71-28.28z"
+                  data-testid="icon-path"
+                />
+              </svg>
+            </span>
+          </button>
+        </li>
+        <li>
+          <button
+            class="sc-dlnjPT fQqOyL"
+            data-testid="button"
+          >
+            <span
+              class="sc-bdnylx bRlASU"
+            >
+              1
+            </span>
+          </button>
+        </li>
+        <li>
+          <button
+            class="sc-dlnjPT hhkCkh"
+            data-testid="button"
+          >
+            <span
+              class="sc-bdnylx bRlASU"
+            >
+              2
+            </span>
+          </button>
+        </li>
+        <li>
+          <button
+            class="sc-dlnjPT hhkCkh"
+            data-testid="button"
+          >
+            <span
+              class="sc-bdnylx bRlASU"
+            >
+              3
+            </span>
+          </button>
+        </li>
+        <li>
+          <button
+            class="sc-dlnjPT hhkCkh"
+            data-testid="button"
+          >
+            <span
+              class="sc-bdnylx bRlASU"
+            >
+              4
+            </span>
+          </button>
+        </li>
+        <li>
+          <button
+            class="sc-dlnjPT hhkCkh"
+            data-testid="button"
+          >
+            <span
+              class="sc-bdnylx bRlASU"
+            >
+              5
+            </span>
+          </button>
+        </li>
+        <li>
+          <button
+            class="sc-dlnjPT hhkCkh"
+            data-testid="button"
+          >
+            <span
+              class="sc-bdnylx bRlASU"
+            >
+              <svg
+                class="sc-hKFyIo epBBzH"
+                data-testid="icon-svg"
+                height="20px"
+                viewBox="0 0 1024 1024"
+                width="20px"
+              >
+                <path
+                  class="sc-eCApGN ijoIcd"
+                  color="black"
+                  d="M768.072 514.022c0 10.236-3.904 20.47-11.712 28.282l-344.098 344.156c-15.62 15.624-40.946 15.624-56.568 0.006-15.622-15.622-15.624-40.948-0.006-56.568l315.82-315.876-315.868-315.922c-15.618-15.624-15.618-40.952 0.004-56.568 15.624-15.62 40.95-15.618 56.57 0.006l344.144 344.204c7.81 7.81 11.714 18.044 11.714 28.28z"
+                  data-testid="icon-path"
+                />
+              </svg>
+            </span>
+          </button>
+        </li>
+      </ul>
+    </div>
+  </body>,
+  "container": <div>
+    <ul
+      class="sc-jSFkmK kQqwCS"
+    >
+      <li>
+        <button
+          class="sc-dlnjPT lnHCYJ"
+          data-testid="button"
+          disabled=""
+        >
+          <span
+            class="sc-bdnylx bRlASU"
+          >
+            <svg
+              class="sc-hKFyIo epBBzH"
+              data-testid="icon-svg"
+              height="20px"
+              viewBox="0 0 1024 1024"
+              width="20px"
+            >
+              <path
+                class="sc-eCApGN ijoIcd"
+                color="black"
+                d="M257.93 511.976c0-10.236 3.902-20.47 11.71-28.282l344.098-344.158c15.622-15.624 40.946-15.624 56.57-0.006 15.622 15.622 15.624 40.948 0.004 56.568l-315.82 315.876 315.868 315.922c15.618 15.624 15.618 40.952-0.004 56.568-15.622 15.62-40.95 15.618-56.57-0.006l-344.146-344.202c-7.808-7.81-11.71-18.044-11.71-28.28z"
+                data-testid="icon-path"
+              />
+            </svg>
+          </span>
+        </button>
+      </li>
+      <li>
+        <button
+          class="sc-dlnjPT fQqOyL"
+          data-testid="button"
+        >
+          <span
+            class="sc-bdnylx bRlASU"
+          >
+            1
+          </span>
+        </button>
+      </li>
+      <li>
+        <button
+          class="sc-dlnjPT hhkCkh"
+          data-testid="button"
+        >
+          <span
+            class="sc-bdnylx bRlASU"
+          >
+            2
+          </span>
+        </button>
+      </li>
+      <li>
+        <button
+          class="sc-dlnjPT hhkCkh"
+          data-testid="button"
+        >
+          <span
+            class="sc-bdnylx bRlASU"
+          >
+            3
+          </span>
+        </button>
+      </li>
+      <li>
+        <button
+          class="sc-dlnjPT hhkCkh"
+          data-testid="button"
+        >
+          <span
+            class="sc-bdnylx bRlASU"
+          >
+            4
+          </span>
+        </button>
+      </li>
+      <li>
+        <button
+          class="sc-dlnjPT hhkCkh"
+          data-testid="button"
+        >
+          <span
+            class="sc-bdnylx bRlASU"
+          >
+            5
+          </span>
+        </button>
+      </li>
+      <li>
+        <button
+          class="sc-dlnjPT hhkCkh"
+          data-testid="button"
+        >
+          <span
+            class="sc-bdnylx bRlASU"
+          >
+            <svg
+              class="sc-hKFyIo epBBzH"
+              data-testid="icon-svg"
+              height="20px"
+              viewBox="0 0 1024 1024"
+              width="20px"
+            >
+              <path
+                class="sc-eCApGN ijoIcd"
+                color="black"
+                d="M768.072 514.022c0 10.236-3.904 20.47-11.712 28.282l-344.098 344.156c-15.62 15.624-40.946 15.624-56.568 0.006-15.622-15.622-15.624-40.948-0.006-56.568l315.82-315.876-315.868-315.922c-15.618-15.624-15.618-40.952 0.004-56.568 15.624-15.62 40.95-15.618 56.57 0.006l344.144 344.204c7.81 7.81 11.714 18.044 11.714 28.28z"
+                data-testid="icon-path"
+              />
+            </svg>
+          </span>
+        </button>
+      </li>
+    </ul>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`test Pagination component it render corrent Table 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <table
+          class="sc-gKAblj bpQvcg"
+        >
+          <thead>
+            <tr>
+              <td
+                style="position: relative;"
+              >
+                <span>
+                  Name
+                </span>
+              </td>
+              <td
+                style="position: relative;"
+              >
+                <span>
+                  Chinese Score
+                </span>
+                <span
+                  class="sc-iCoHVE bojTjA"
+                >
+                  <svg
+                    class="sc-hKFyIo iDVKCX"
+                    color="#666666"
+                    data-testid="icon-svg"
+                    height="20px"
+                    viewBox="0 0 1024 1024"
+                    width="20px"
+                  >
+                    <path
+                      class="sc-eCApGN hqgtJJ"
+                      color="#666666"
+                      d="M512.024 256c10.236 0 20.47 3.904 28.282 11.712l344.154 344.098c15.624 15.62 15.624 40.946 0.006 56.57-15.622 15.622-40.948 15.624-56.568 0.004l-315.876-315.82-315.922 315.868c-15.624 15.618-40.952 15.618-56.568-0.004-15.62-15.624-15.618-40.95 0.006-56.57l344.204-344.144c7.81-7.81 18.046-11.714 28.282-11.714z"
+                      data-testid="icon-path"
+                    />
+                  </svg>
+                  <svg
+                    class="sc-hKFyIo iDVKCX"
+                    color="#666666"
+                    data-testid="icon-svg"
+                    height="20px"
+                    viewBox="0 0 1024 1024"
+                    width="20px"
+                  >
+                    <path
+                      class="sc-eCApGN hqgtJJ"
+                      color="#666666"
+                      d="M511.976 768.002c-10.236 0-20.47-3.904-28.282-11.712l-344.154-344.098c-15.624-15.62-15.624-40.946-0.006-56.57 15.622-15.622 40.948-15.624 56.568-0.004l315.876 315.82 315.922-315.868c15.624-15.618 40.952-15.616 56.568 0.004 15.62 15.624 15.618 40.95-0.006 56.57l-344.204 344.144c-7.81 7.81-18.046 11.714-28.282 11.714z"
+                      data-testid="icon-path"
+                    />
+                  </svg>
+                </span>
+              </td>
+              <td
+                style="position: relative;"
+              >
+                <span>
+                  Math Score
+                </span>
+                <span
+                  class="sc-iCoHVE bojTjA"
+                >
+                  <svg
+                    class="sc-hKFyIo iDVKCX"
+                    color="#666666"
+                    data-testid="icon-svg"
+                    height="20px"
+                    viewBox="0 0 1024 1024"
+                    width="20px"
+                  >
+                    <path
+                      class="sc-eCApGN hqgtJJ"
+                      color="#666666"
+                      d="M512.024 256c10.236 0 20.47 3.904 28.282 11.712l344.154 344.098c15.624 15.62 15.624 40.946 0.006 56.57-15.622 15.622-40.948 15.624-56.568 0.004l-315.876-315.82-315.922 315.868c-15.624 15.618-40.952 15.618-56.568-0.004-15.62-15.624-15.618-40.95 0.006-56.57l344.204-344.144c7.81-7.81 18.046-11.714 28.282-11.714z"
+                      data-testid="icon-path"
+                    />
+                  </svg>
+                  <svg
+                    class="sc-hKFyIo iDVKCX"
+                    color="#666666"
+                    data-testid="icon-svg"
+                    height="20px"
+                    viewBox="0 0 1024 1024"
+                    width="20px"
+                  >
+                    <path
+                      class="sc-eCApGN hqgtJJ"
+                      color="#666666"
+                      d="M511.976 768.002c-10.236 0-20.47-3.904-28.282-11.712l-344.154-344.098c-15.624-15.62-15.624-40.946-0.006-56.57 15.622-15.622 40.948-15.624 56.568-0.004l315.876 315.82 315.922-315.868c15.624-15.618 40.952-15.616 56.568 0.004 15.62 15.624 15.618 40.95-0.006 56.57l-344.204 344.144c-7.81 7.81-18.046 11.714-28.282 11.714z"
+                      data-testid="icon-path"
+                    />
+                  </svg>
+                </span>
+              </td>
+              <td
+                style="position: relative;"
+              >
+                <span>
+                  English Score
+                </span>
+                <span
+                  class="sc-iCoHVE bojTjA"
+                >
+                  <svg
+                    class="sc-hKFyIo iDVKCX"
+                    color="#666666"
+                    data-testid="icon-svg"
+                    height="20px"
+                    viewBox="0 0 1024 1024"
+                    width="20px"
+                  >
+                    <path
+                      class="sc-eCApGN hqgtJJ"
+                      color="#666666"
+                      d="M512.024 256c10.236 0 20.47 3.904 28.282 11.712l344.154 344.098c15.624 15.62 15.624 40.946 0.006 56.57-15.622 15.622-40.948 15.624-56.568 0.004l-315.876-315.82-315.922 315.868c-15.624 15.618-40.952 15.618-56.568-0.004-15.62-15.624-15.618-40.95 0.006-56.57l344.204-344.144c7.81-7.81 18.046-11.714 28.282-11.714z"
+                      data-testid="icon-path"
+                    />
+                  </svg>
+                  <svg
+                    class="sc-hKFyIo iDVKCX"
+                    color="#666666"
+                    data-testid="icon-svg"
+                    height="20px"
+                    viewBox="0 0 1024 1024"
+                    width="20px"
+                  >
+                    <path
+                      class="sc-eCApGN hqgtJJ"
+                      color="#666666"
+                      d="M511.976 768.002c-10.236 0-20.47-3.904-28.282-11.712l-344.154-344.098c-15.624-15.62-15.624-40.946-0.006-56.57 15.622-15.622 40.948-15.624 56.568-0.004l315.876 315.82 315.922-315.868c15.624-15.618 40.952-15.616 56.568 0.004 15.62 15.624 15.618 40.95-0.006 56.57l-344.204 344.144c-7.81 7.81-18.046 11.714-28.282 11.714z"
+                      data-testid="icon-path"
+                    />
+                  </svg>
+                </span>
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                John Brown
+              </td>
+              <td>
+                55
+              </td>
+              <td>
+                60
+              </td>
+              <td>
+                70
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Jim Green
+              </td>
+              <td>
+                98
+              </td>
+              <td>
+                66
+              </td>
+              <td>
+                89
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Joe Black
+              </td>
+              <td>
+                78
+              </td>
+              <td>
+                90
+              </td>
+              <td>
+                70
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Jim Red
+              </td>
+              <td>
+                88
+              </td>
+              <td>
+                99
+              </td>
+              <td>
+                89
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <table
+        class="sc-gKAblj bpQvcg"
+      >
+        <thead>
+          <tr>
+            <td
+              style="position: relative;"
+            >
+              <span>
+                Name
+              </span>
+            </td>
+            <td
+              style="position: relative;"
+            >
+              <span>
+                Chinese Score
+              </span>
+              <span
+                class="sc-iCoHVE bojTjA"
+              >
+                <svg
+                  class="sc-hKFyIo iDVKCX"
+                  color="#666666"
+                  data-testid="icon-svg"
+                  height="20px"
+                  viewBox="0 0 1024 1024"
+                  width="20px"
+                >
+                  <path
+                    class="sc-eCApGN hqgtJJ"
+                    color="#666666"
+                    d="M512.024 256c10.236 0 20.47 3.904 28.282 11.712l344.154 344.098c15.624 15.62 15.624 40.946 0.006 56.57-15.622 15.622-40.948 15.624-56.568 0.004l-315.876-315.82-315.922 315.868c-15.624 15.618-40.952 15.618-56.568-0.004-15.62-15.624-15.618-40.95 0.006-56.57l344.204-344.144c7.81-7.81 18.046-11.714 28.282-11.714z"
+                    data-testid="icon-path"
+                  />
+                </svg>
+                <svg
+                  class="sc-hKFyIo iDVKCX"
+                  color="#666666"
+                  data-testid="icon-svg"
+                  height="20px"
+                  viewBox="0 0 1024 1024"
+                  width="20px"
+                >
+                  <path
+                    class="sc-eCApGN hqgtJJ"
+                    color="#666666"
+                    d="M511.976 768.002c-10.236 0-20.47-3.904-28.282-11.712l-344.154-344.098c-15.624-15.62-15.624-40.946-0.006-56.57 15.622-15.622 40.948-15.624 56.568-0.004l315.876 315.82 315.922-315.868c15.624-15.618 40.952-15.616 56.568 0.004 15.62 15.624 15.618 40.95-0.006 56.57l-344.204 344.144c-7.81 7.81-18.046 11.714-28.282 11.714z"
+                    data-testid="icon-path"
+                  />
+                </svg>
+              </span>
+            </td>
+            <td
+              style="position: relative;"
+            >
+              <span>
+                Math Score
+              </span>
+              <span
+                class="sc-iCoHVE bojTjA"
+              >
+                <svg
+                  class="sc-hKFyIo iDVKCX"
+                  color="#666666"
+                  data-testid="icon-svg"
+                  height="20px"
+                  viewBox="0 0 1024 1024"
+                  width="20px"
+                >
+                  <path
+                    class="sc-eCApGN hqgtJJ"
+                    color="#666666"
+                    d="M512.024 256c10.236 0 20.47 3.904 28.282 11.712l344.154 344.098c15.624 15.62 15.624 40.946 0.006 56.57-15.622 15.622-40.948 15.624-56.568 0.004l-315.876-315.82-315.922 315.868c-15.624 15.618-40.952 15.618-56.568-0.004-15.62-15.624-15.618-40.95 0.006-56.57l344.204-344.144c7.81-7.81 18.046-11.714 28.282-11.714z"
+                    data-testid="icon-path"
+                  />
+                </svg>
+                <svg
+                  class="sc-hKFyIo iDVKCX"
+                  color="#666666"
+                  data-testid="icon-svg"
+                  height="20px"
+                  viewBox="0 0 1024 1024"
+                  width="20px"
+                >
+                  <path
+                    class="sc-eCApGN hqgtJJ"
+                    color="#666666"
+                    d="M511.976 768.002c-10.236 0-20.47-3.904-28.282-11.712l-344.154-344.098c-15.624-15.62-15.624-40.946-0.006-56.57 15.622-15.622 40.948-15.624 56.568-0.004l315.876 315.82 315.922-315.868c15.624-15.618 40.952-15.616 56.568 0.004 15.62 15.624 15.618 40.95-0.006 56.57l-344.204 344.144c-7.81 7.81-18.046 11.714-28.282 11.714z"
+                    data-testid="icon-path"
+                  />
+                </svg>
+              </span>
+            </td>
+            <td
+              style="position: relative;"
+            >
+              <span>
+                English Score
+              </span>
+              <span
+                class="sc-iCoHVE bojTjA"
+              >
+                <svg
+                  class="sc-hKFyIo iDVKCX"
+                  color="#666666"
+                  data-testid="icon-svg"
+                  height="20px"
+                  viewBox="0 0 1024 1024"
+                  width="20px"
+                >
+                  <path
+                    class="sc-eCApGN hqgtJJ"
+                    color="#666666"
+                    d="M512.024 256c10.236 0 20.47 3.904 28.282 11.712l344.154 344.098c15.624 15.62 15.624 40.946 0.006 56.57-15.622 15.622-40.948 15.624-56.568 0.004l-315.876-315.82-315.922 315.868c-15.624 15.618-40.952 15.618-56.568-0.004-15.62-15.624-15.618-40.95 0.006-56.57l344.204-344.144c7.81-7.81 18.046-11.714 28.282-11.714z"
+                    data-testid="icon-path"
+                  />
+                </svg>
+                <svg
+                  class="sc-hKFyIo iDVKCX"
+                  color="#666666"
+                  data-testid="icon-svg"
+                  height="20px"
+                  viewBox="0 0 1024 1024"
+                  width="20px"
+                >
+                  <path
+                    class="sc-eCApGN hqgtJJ"
+                    color="#666666"
+                    d="M511.976 768.002c-10.236 0-20.47-3.904-28.282-11.712l-344.154-344.098c-15.624-15.62-15.624-40.946-0.006-56.57 15.622-15.622 40.948-15.624 56.568-0.004l315.876 315.82 315.922-315.868c15.624-15.618 40.952-15.616 56.568 0.004 15.62 15.624 15.618 40.95-0.006 56.57l-344.204 344.144c-7.81 7.81-18.046 11.714-28.282 11.714z"
+                    data-testid="icon-path"
+                  />
+                </svg>
+              </span>
+            </td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              John Brown
+            </td>
+            <td>
+              55
+            </td>
+            <td>
+              60
+            </td>
+            <td>
+              70
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Jim Green
+            </td>
+            <td>
+              98
+            </td>
+            <td>
+              66
+            </td>
+            <td>
+              89
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Joe Black
+            </td>
+            <td>
+              78
+            </td>
+            <td>
+              90
+            </td>
+            <td>
+              70
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Jim Red
+            </td>
+            <td>
+              88
+            </td>
+            <td>
+              99
+            </td>
+            <td>
+              89
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
